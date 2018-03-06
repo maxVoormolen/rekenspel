@@ -1,0 +1,17 @@
+
+
+.wrapper{
+  padding-left: 20px;
+  padding-bottom: 5px;
+  width: 800px;
+  background-color: blue;
+  border: 2px solid black;
+  border-style: double;
+  border-color: white;
+  border-radius: 20px;
+  margin: auto;
+}
+
+#myAssignment{
+  font-size: 50px;
+}
